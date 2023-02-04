@@ -4,7 +4,7 @@ ____
 
 <div align="center">
  <img src="https://img.shields.io/badge/downloads-0-green"/>
- <img src="https://img.shields.io/badge/made%20by-CajeerTeam-blue"/>
+ <img src="https://img.shields.io/badge/made%20by-cajeer-blue"/>
  <img src="https://img.shields.io/badge/software-open--source-yellowgreen"/>
  <img src="https://img.shields.io/github/issues/Cajeer-Team/API-Cajeer-Team-Website"/>
  <img src="https://img.shields.io/github/forks/Cajeer-Team/API-Cajeer-Team-Website"/>
